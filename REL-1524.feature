@@ -33,6 +33,7 @@ Examples:
 |mickey|3|35000.0|
 |stive|4|45000.0|
 
+
 @fourth_scenario_tag @SC_351194375
 Scenario: Fourth scenario
 Given I created new scenario
@@ -44,7 +45,7 @@ And something more
 @second_scenario_tag @SC_379276754
 Scenario: Second scenario
 Some description
+#comment
 Given I created scenario
 Then I see it in Relime
-#comment
 
