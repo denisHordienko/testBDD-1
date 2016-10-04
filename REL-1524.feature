@@ -1,4 +1,4 @@
-@tagtagtag @this_is_story_tag @ST_409686232
+@ST_409686232 @tagtagtag @this_is_story_tag
 Feature: Update this name
 I want to see new description
 
@@ -15,13 +15,6 @@ In mei quis persius accumsan. Duo dicunt eloquentiam ut, pri eu simul facete cau
 In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue discere menandri has ut, omnes nonumes at vis, quo ne malorum accusamus. Vim exerci luptatum contentiones ad, ei veniam everti virtute usu, pri iuvaret equidem no. Eum at odio numquam repudiare, qui in natum iisque, cu quaeque scriptorem cum. Eam sale utroque volutpat in, in sea sanctus aliquando.
 Given I created scenario
 Then I see it in Relime
-
-@second_scenario_tag @SC_379276754
-Scenario: Second scenario
-Some description
-Given I created scenario
-Then I see it in Relime
-#comment
 
 @third_scenario_tag @SC_405639522
 Scenario Outline: Third scenario
@@ -47,4 +40,11 @@ Then I see it synced in Relime
 And the salary management system is initialized with the following data
 And the customer searches for books published between 6 and 7
 And something more
+
+@second_scenario_tag @SC_379276754
+Scenario: Second scenario
+Some description
+Given I created scenario
+Then I see it in Relime
+#comment
 
