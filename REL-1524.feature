@@ -1,4 +1,4 @@
-@ST_29 @24 @19 @14 @6 @tagtagtag @this_is_story_tag
+@ST_29 @tagtagtag @this_is_story_tag @14 @6 @24 @19
 Feature: Update this name
 I want to see new description
 
@@ -6,7 +6,7 @@ Background:
 
 Given there is some background
 
-@50 @SC_40 @SC_30 @SC_20 @SC_10 @SC_first_scenario_tag
+@50 @SC_first_scenario_tag @SC_20 @SC_10 @SC_30 @SC_40
 Scenario: First scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -16,7 +16,7 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relime
 
-@51 @SC_41 @SC_31 @SC_21 @SC_11 @SC_third_scenario_tag
+@51 @SC_third_scenario_tag @SC_21 @SC_11 @SC_31 @SC_41
 Scenario Outline: Third scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -34,7 +34,7 @@ Examples:
 |stive|4|45000.0|
 
 
-@52 @SC_42 @SC_32 @SC_22 @SC_12 @SC_fourth_scenario_tag
+@52 @SC_fourth_scenario_tag @SC_22 @SC_12 @SC_32 @SC_42
 Scenario: Fourth scenario
 Given I created new scenario
 Then I see it synced in Relime
@@ -42,7 +42,7 @@ And the salary management system is initialized with the following data
 And the customer searches for books published between 6 and 7
 And something more
 
-@53 @SC_43 @SC_33 @SC_23 @SC_13 @SC_second_scenario_tag
+@53 @SC_second_scenario_tag @SC_23 @SC_13 @SC_33 @SC_43
 Scenario: Second scenario
 Some description
 #comment
