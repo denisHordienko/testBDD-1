@@ -18,3 +18,9 @@ Given I created scenario
 When I saw a comment
 #I see it in Relime
 
+@18 @new_second_scenario_tag
+Scenario: Second scenario
+Some new description
+Given I created scenario with comments
+Then I see them in scenario
+
