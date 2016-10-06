@@ -1,3 +1,3 @@
-@ST_38
+@ST_45
 Feature: newTest
 
