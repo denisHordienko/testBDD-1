@@ -1,7 +1,7 @@
-@10
+@18 @10
 Feature: new
 
-@16
+@28 @16
 Scenario: new
 Given new
 And new
