@@ -1,3 +1,3 @@
-@7
+@7 @new
 Feature: gdfg1
 
