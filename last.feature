@@ -75,3 +75,9 @@ Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
+@SC_370
+Scenario: new
+Some new description
+Given I created scenario with comments
+Then I see them in scenarioyyyy
+
