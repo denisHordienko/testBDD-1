@@ -1,3 +1,3 @@
-@71
+@ST_71
 Feature: newTest
 
