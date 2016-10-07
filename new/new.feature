@@ -1,7 +1,7 @@
-@ST_67
+@73
 Feature: new
 
-@SC_172
+@186
 Scenario: new
 Given new
 And new
