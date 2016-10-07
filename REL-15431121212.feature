@@ -3,38 +3,50 @@ Feature: New Feature name
 There is feature description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at 
 
-@SC_307 @SC_478967127
+@SC_307
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_308 @SC_474074172
+@SC_308
 Scenario: new
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_309 @SC_334932025
+@SC_309
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_310 @SC_370737671
+@SC_310
 Scenario: new
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_311 @SC_363883917
+@SC_311
 Scenario: new
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_312 @SC_370098625
+@SC_312
 Scenario: Second scenario
+Some new description
+Given I created scenario with comments
+Then I see them in scenarioyyyy
+
+@SC_325
+Scenario: Second scenario
+Some new description
+Given I created scenario with comments
+Then I see them in scenarioyyyy
+
+@SC_326
+Scenario: new
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
