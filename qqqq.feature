@@ -6,6 +6,12 @@ Erat vidit expetenda sea ei. Eam quem inani integre te, quo simul nobis docendi 
 In mei quis persius accumsan. Duo dicunt eloquentiam ut, pri eu simul facete causae. Ut usu porro omnes dolore, ea idque sapientem vis. Vis in paulo ridens efficiantur, ridens latine eu per, at est sensibus constituto. Nam novum mollis melius cu.
 In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue discere menandri has ut, omnes nonumes at vis, quo ne malorum accusamus. Vim exerci luptatum contentiones ad, ei veniam everti virtute usu, pri iuvaret equidem no. Eum at odio numquam repudiare, qui in natum iisque, cu quaeque scriptorem cum. Eam sale utroque volutpat in, in sea sanctus aliquando.#Background:#Given there is some background
 
+@SC_256
+Scenario: Second scenario
+Some new description
+Given I created scenario with comments
+Then I see them in scenarioyyyy
+
 @SC_253 @fff
 Scenario: First scenario
 There is scenario description
@@ -33,12 +39,6 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 When I saw a comment
 #I see it in Relime
-
-@SC_256
-Scenario: Second scenario
-Some new description
-Given I created scenario with comments
-Then I see them in scenario
 
 @SC_257 @fff
 Scenario: First scenario
