@@ -2,7 +2,10 @@
 Feature: new
 
 @SC_357
-Scenario: new
+Scenario Outline: new
 Given new
-And new
+And new <ttt>
 
+Examples: 
+|ttt|
+||
