@@ -5,7 +5,7 @@ Background:
 
 Given ttt
 
-@SC_357
+@SC_357 @test
 Scenario Outline: new
 Given new
 And new <ttt>
