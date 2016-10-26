@@ -48,4 +48,3 @@ Some description
 #comment
 Given I created scenario
 Then I see it in Relime
-
