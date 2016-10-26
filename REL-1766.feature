@@ -1,2 +1,2 @@
-@ST_85
+@ST_30
 Feature: newTest

@@ -1,75 +1,75 @@
-@ST_83 @tagtagtag @this_is_story_tag
+@ST_28 @tagtagtag @this_is_story_tag
 Feature: New Feature name
 There is feature description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at 
 
-@SC_341
+@SC_145
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_342
+@SC_146
 Scenario: new
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_343
+@SC_147
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_344
+@SC_148
 Scenario: new
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_345
+@SC_149
 Scenario: new
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_346
+@SC_150
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_347
+@SC_151
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_348
+@SC_152
 Scenario: new
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_349
+@SC_153
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_350
+@SC_154
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_351
+@SC_155
 Scenario: Second scenario
 Some new description
 Given I created scenario with comments
 Then I see them in scenarioyyyy
 
-@SC_352
+@SC_156
 Scenario: new
 Some new description
 Given I created scenario with comments
